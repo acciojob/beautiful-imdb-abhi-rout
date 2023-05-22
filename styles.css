@@ -3,7 +3,7 @@ img.moviePic {
     width:100%;
     opacity: 0.75;
 }
-p.movieDetails {
+p.movieDetail {
 position:relative;
 top:50px;
 width: 80%;
